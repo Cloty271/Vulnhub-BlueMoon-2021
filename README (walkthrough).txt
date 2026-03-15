@@ -41,8 +41,6 @@ This command performs a ping scan to find active hosts in the network.
 From the results, I found the target machine with the following IP address:
 192.168.0.24
 
-Step 3 – Scanning the Target Machine
-
 After identifying the target IP address, I performed a more detailed scan to gather information about open ports and services running on the machine.
 nmap -sC -sV -Pn -vv 192.168.0.24
 
