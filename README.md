@@ -4,7 +4,7 @@ In this walkthrough, I performed penetration testing on the Bluemoon: 2021 vulne
 
 Step 1 – Finding the Target IP Address
 
-First, I needed to find the IP address of the vulnerable machine on the network.
+First, I needed to find the IP address of the vulnerable machine on the network. 
 
 To do this, I used netdiscover in Kali Linux:
 
