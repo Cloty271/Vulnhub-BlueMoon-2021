@@ -58,7 +58,7 @@ The webpage did not reveal much useful information. Because of that, I decided t
 
 To do this, I used Gobuster with a common wordlist:
 
-gobuster dir -u http://192.168.56.107 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+gobuster dir -u http://192.168.0.24 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 
 After running the scan, I discovered a hidden directory:
 
